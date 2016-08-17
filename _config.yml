@@ -1,0 +1,14 @@
+layout_spectrum: 0.7943312893621624
+typography_spectrum: 0.8524965073447675
+color:
+  brandStrength: 0.6724780302029103
+  lightness: 0.8703144264873117
+  saturation: 0.6992948551196605
+  rhythmicContrast: 0.25395257002674043
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Social WiFi Networks
